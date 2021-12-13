@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhinakaran011
-- 👀 I’m interested in fullstack devolopment and data science
+- 👀 I’m interested in fullstack web devolopment and data science
 - 🌱 I’m currently learning advanced python libraries for data scince
 
 <!---
